@@ -1,0 +1,1 @@
+print("ı dont know what am ı doin")
